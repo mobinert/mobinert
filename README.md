@@ -170,19 +170,19 @@ Most people pick red <i>or</i> blue. I speak both languages fluently.
 
 ---
 
-### 🐍 Contribution Map
+### 📡 Current Focus
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mobinert/mobinert/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mobinert/mobinert/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/mobinert/mobinert/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
+<div align="center">
 
----
+```
+[*] Sharpening offensive skills ........... in progress
+[*] Building detection frameworks ......... in progress
+[*] Studying adversary TTPs (MITRE ATT&CK). in progress
+[*] Developing custom tooling ............. classified
+[*] Next target ........................... [REDACTED]
+```
 
-### 📈 Activity
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mobinert&theme=react-dark&bg_color=0d1117&color=FF3333&line=FF3333&point=ffffff&area=true&area_color=330000&hide_border=true"/>
+</div>
 
 ---
 
