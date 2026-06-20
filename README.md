@@ -42,6 +42,9 @@
 ### 📦 Latest Projects
 
 <!-- PROJECTS:START -->
+| Project | Description | Language | Stars |
+| ------- | ------------ | -------- | ----- |
+| [ssh-fortress](https://github.com/mobinert/ssh-fortress) | Advanced modular SSH hardening, brute-force protection and SIEM integration | Python | ⭐ 0 |
 <!-- PROJECTS:END -->
 
 ---
