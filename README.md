@@ -156,11 +156,17 @@ Most people pick red <i>or</i> blue. I speak both languages fluently.
 
 ---
 
-### 🏆 Trophies
+### 🧠 Mindset
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mobinert&theme=onestar&no-frame=true&no-bg=true&column=6&margin-w=10"/>
-</p>
+<div align="center">
+
+| | |
+|:---:|:---:|
+| 🔴 **Attack everything until nothing can be attacked** | 🔵 **Defend everything until nothing can be defended** |
+| Think like a criminal. Act like a professional. | Trust nothing. Verify everything. Log everything else. |
+| The attacker only needs to be right once. | The defender needs to be right every single time. |
+
+</div>
 
 ---
 
