@@ -10,13 +10,21 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/BackTrack_r3-8B0000?style=for-the-badge&logo=linux&logoColor=white"/>
+<a href="https://www.kali.org" target="_blank">
+  <img src="https://img.shields.io/badge/BackTrack_r3-8B0000?style=for-the-badge&logo=linux&logoColor=white"/>
+</a>
 &nbsp;
-<img src="https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+<a href="https://www.gnu.org/software/bash/" target="_blank">
+  <img src="https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
+</a>
 &nbsp;
-<img src="https://img.shields.io/badge/Shell_Scripter-1a1a1a?style=for-the-badge&logo=windowsterminal&logoColor=white"/>
+<a href="https://www.shellscript.sh" target="_blank">
+  <img src="https://img.shields.io/badge/Shell_Scripter-1a1a1a?style=for-the-badge&logo=windowsterminal&logoColor=white"/>
+</a>
 &nbsp;
-<img src="https://img.shields.io/badge/Root_Since_r3-CC0000?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<a href="https://www.kali.org" target="_blank">
+  <img src="https://img.shields.io/badge/Root_Since_r3-CC0000?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+</a>
 
 </div>
 
@@ -81,51 +89,56 @@ Most people pick red <i>or</i> blue. I speak both languages fluently.
 ### 💻 Platforms & Terminals
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Termius-000000?style=for-the-badge&logo=termius&logoColor=white"/>
+  <a href="https://www.kali.org" target="_blank"><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/></a>
+  <a href="https://archlinux.org" target="_blank"><img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white"/></a>
+  <a href="https://www.kernel.org" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
+  <a href="https://www.apple.com/macos/" target="_blank"><img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/></a>
+  <a href="https://www.apple.com/ios/" target="_blank"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/></a>
+  <a href="https://www.microsoft.com/windows" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white"/></a>
+  <a href="https://termius.com" target="_blank"><img src="https://img.shields.io/badge/Termius-000000?style=for-the-badge&logo=termius&logoColor=white"/></a>
 </p>
 
 ### 🔴 Offensive Arsenal
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Metasploit-2596BE?style=for-the-badge&logo=metasploit&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cobalt_Strike-CC0000?style=for-the-badge&logo=target&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Havoc_C2-1a1a1a?style=for-the-badge&logo=ghost&logoColor=red"/>
-  <img src="https://img.shields.io/badge/Burp_Suite_Pro-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap_%2F_Masscan-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BloodHound_%2F_SharpHound-FF0000?style=for-the-badge&logo=neo4j&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Impacket-8B0000?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mimikatz-DC143C?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Rubeus-AA0000?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CrackMapExec-880000?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Responder-FF4444?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Evil--WinRM-B22222?style=for-the-badge&logo=powershell&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hashcat-FF6600?style=for-the-badge&logo=hashnode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=nsa&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <a href="https://www.metasploit.com" target="_blank"><img src="https://img.shields.io/badge/Metasploit-2596BE?style=for-the-badge&logo=metasploit&logoColor=white"/></a>
+  <a href="https://www.cobaltstrike.com" target="_blank"><img src="https://img.shields.io/badge/Cobalt_Strike-CC0000?style=for-the-badge&logo=target&logoColor=white"/></a>
+  <a href="https://github.com/HavocFramework/Havoc" target="_blank"><img src="https://img.shields.io/badge/Havoc_C2-1a1a1a?style=for-the-badge&logo=ghost&logoColor=red"/></a>
+  <a href="https://portswigger.net/burp" target="_blank"><img src="https://img.shields.io/badge/Burp_Suite_Pro-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/></a>
+  <a href="https://nmap.org" target="_blank"><img src="https://img.shields.io/badge/Nmap_%2F_Masscan-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/></a>
+  <a href="https://www.wireshark.org" target="_blank"><img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/></a>
+  <a href="https://github.com/BloodHoundAD/BloodHound" target="_blank"><img src="https://img.shields.io/badge/BloodHound_%2F_SharpHound-FF0000?style=for-the-badge&logo=neo4j&logoColor=white"/></a>
+  <a href="https://github.com/fortra/impacket" target="_blank"><img src="https://img.shields.io/badge/Impacket-8B0000?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <a href="https://github.com/gentilkiwi/mimikatz" target="_blank"><img src="https://img.shields.io/badge/Mimikatz-DC143C?style=for-the-badge&logo=windows&logoColor=white"/></a>
+  <a href="https://github.com/GhostPack/Rubeus" target="_blank"><img src="https://img.shields.io/badge/Rubeus-AA0000?style=for-the-badge&logo=windows&logoColor=white"/></a>
+  <a href="https://github.com/Pennyw0rth/NetExec" target="_blank"><img src="https://img.shields.io/badge/CrackMapExec-880000?style=for-the-badge&logo=python&logoColor=white"/></a>
+  <a href="https://github.com/lgandx/Responder" target="_blank"><img src="https://img.shields.io/badge/Responder-FF4444?style=for-the-badge&logo=linux&logoColor=white"/></a>
+  <a href="https://github.com/Hackplayers/evil-winrm" target="_blank"><img src="https://img.shields.io/badge/Evil--WinRM-B22222?style=for-the-badge&logo=powershell&logoColor=white"/></a>
+  <a href="https://hashcat.net" target="_blank"><img src="https://img.shields.io/badge/Hashcat-FF6600?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
+  <a href="https://ghidra-sre.org" target="_blank"><img src="https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=nsa&logoColor=white"/></a>
+  <a href="https://sqlmap.org" target="_blank"><img src="https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logo=mysql&logoColor=white"/></a>
 </p>
 
 ### 🔵 Defensive Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Elastic_SIEM-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=suricata&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Zeek-2980B9?style=for-the-badge&logo=zeek&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wazuh-3366CC?style=for-the-badge&logo=wazuh&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MISP-0055CC?style=for-the-badge&logo=misp&logoColor=white"/>
+  <a href="https://www.elastic.co/security" target="_blank"><img src="https://img.shields.io/badge/Elastic_SIEM-005571?style=for-the-badge&logo=elasticsearch&logoColor=white"/></a>
+  <a href="https://www.splunk.com" target="_blank"><img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/></a>
+  <a href="https://suricata.io" target="_blank"><img src="https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=suricata&logoColor=white"/></a>
+  <a href="https://zeek.org" target="_blank"><img src="https://img.shields.io/badge/Zeek-2980B9?style=for-the-badge&logo=zeek&logoColor=white"/></a>
+  <a href="https://wazuh.com" target="_blank"><img src="https://img.shields.io/badge/Wazuh-3366CC?style=for-the-badge&logo=wazuh&logoColor=white"/></a>
+  <a href="https://www.misp-project.org" target="_blank"><img src="https://img.shields.io/badge/MISP-0055CC?style=for-the-badge&logo=misp&logoColor=white"/></a>
 </p>
 
 ### ⚙️ Languages & Dev
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,powershell,c,git,vim&theme=dark&perline=6"/>
+  <a href="https://www.python.org" target="_blank"><img src="https://skillicons.dev/icons?i=python&theme=dark"/></a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://skillicons.dev/icons?i=bash&theme=dark"/></a>
+  <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"><img src="https://skillicons.dev/icons?i=powershell&theme=dark"/></a>
+  <a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img src="https://skillicons.dev/icons?i=c&theme=dark"/></a>
+  <a href="https://git-scm.com" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark"/></a>
+  <a href="https://www.vim.org" target="_blank"><img src="https://skillicons.dev/icons?i=vim&theme=dark"/></a>
 </p>
 
 ---
