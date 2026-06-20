@@ -10,13 +10,13 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/BackTrack_r3-8B0000?style=for-the-badge&logo=linux&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Metasploit-2596BE?style=for-the-badge&logo=metasploit&logoColor=white"/>
+<img src="https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Shell_Scripter-1a1a1a?style=for-the-badge&logo=windowsterminal&logoColor=white"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Root_Since_r3-CC0000?style=for-the-badge&logo=kalilinux&logoColor=white"/>
 
 </div>
 
@@ -82,23 +82,33 @@ Most people pick red <i>or</i> blue. I speak both languages fluently.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows11&logoColor=white"/>
   <img src="https://img.shields.io/badge/Termius-000000?style=for-the-badge&logo=termius&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 ### 🔴 Offensive Arsenal
 
 <p align="center">
   <img src="https://img.shields.io/badge/Metasploit-2596BE?style=for-the-badge&logo=metasploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cobalt_Strike-CC0000?style=for-the-badge&logo=target&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Havoc_C2-1a1a1a?style=for-the-badge&logo=ghost&logoColor=red"/>
   <img src="https://img.shields.io/badge/Burp_Suite_Pro-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Nmap_%2F_Masscan-4682B4?style=for-the-badge&logo=nmap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BloodHound-FF0000?style=for-the-badge&logo=neo4j&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BloodHound_%2F_SharpHound-FF0000?style=for-the-badge&logo=neo4j&logoColor=white"/>
   <img src="https://img.shields.io/badge/Impacket-8B0000?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mimikatz-DC143C?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Rubeus-AA0000?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CrackMapExec-880000?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Responder-FF4444?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Evil--WinRM-B22222?style=for-the-badge&logo=powershell&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hashcat-FF6600?style=for-the-badge&logo=hashnode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ghidra-FF0000?style=for-the-badge&logo=nsa&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLMap-CC0000?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 ### 🔵 Defensive Stack
@@ -115,7 +125,7 @@ Most people pick red <i>or</i> blue. I speak both languages fluently.
 ### ⚙️ Languages & Dev
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,powershell,go,git,vim&theme=dark&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=python,bash,powershell,c,git,vim&theme=dark&perline=6"/>
 </p>
 
 ---
