@@ -45,20 +45,30 @@ Most people pick red <i>or</i> blue. I speak both languages fluently.
 
 <div align="center">
 
-<a href="https://github.com/mobinert/HORUS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mobinert&repo=HORUS&hide_border=true&bg_color=0d1117&title_color=FF3333&icon_color=FF3333&text_color=c9d1d9" alt="HORUS — IOC enrichment & PE static analysis"/>
-</a>
-<a href="https://github.com/mobinert/machunt">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mobinert&repo=machunt&hide_border=true&bg_color=0d1117&title_color=FF3333&icon_color=FF3333&text_color=c9d1d9" alt="machunt — macOS threat hunting"/>
-</a>
+<table>
+<tr>
+<td align="center" width="33%">
+<a href="https://github.com/mobinert/HORUS"><b>🔱 HORUS</b></a>
+<br/><sub>IOC enrichment + PE static analysis in one zero-dependency Windows exe</sub><br/><br/>
+<img src="https://img.shields.io/github/stars/mobinert/HORUS?style=flat-square&color=FF3333&labelColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/C%2B%2B17-Windows-0078D7?style=flat-square&labelColor=1a1a1a"/>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/mobinert/machunt"><b>🛡️ machunt</b></a>
+<br/><sub>Read-only macOS threat hunting &amp; compromise assessment — 20 modules</sub><br/><br/>
+<img src="https://img.shields.io/github/stars/mobinert/machunt?style=flat-square&color=FF3333&labelColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/Bash-macOS-4EAA25?style=flat-square&labelColor=1a1a1a"/>
+</td>
+<td align="center" width="33%">
+<a href="https://github.com/mobinert/ssh-fortress"><b>🏰 ssh-fortress</b></a>
+<br/><sub>SSH hardening, brute-force protection &amp; SIEM integration</sub><br/><br/>
+<img src="https://img.shields.io/github/stars/mobinert/ssh-fortress?style=flat-square&color=FF3333&labelColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/Python-Linux-FCC624?style=flat-square&labelColor=1a1a1a"/>
+</td>
+</tr>
+</table>
 
-<a href="https://github.com/mobinert/ssh-fortress">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mobinert&repo=ssh-fortress&hide_border=true&bg_color=0d1117&title_color=FF3333&icon_color=FF3333&text_color=c9d1d9" alt="ssh-fortress — SSH hardening & brute-force protection"/>
-</a>
-
-<p>
 ⭐ <i>If one of these saves you an incident, a star keeps the tools coming.</i>
-</p>
 
 </div>
 
