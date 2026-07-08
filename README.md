@@ -41,6 +41,29 @@ Most people pick red <i>or</i> blue. I speak both languages fluently.
 
 ---
 
+### 🧰 Tools I Built
+
+<div align="center">
+
+<a href="https://github.com/mobinert/HORUS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mobinert&repo=HORUS&hide_border=true&bg_color=0d1117&title_color=FF3333&icon_color=FF3333&text_color=c9d1d9" alt="HORUS — IOC enrichment & PE static analysis"/>
+</a>
+<a href="https://github.com/mobinert/machunt">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mobinert&repo=machunt&hide_border=true&bg_color=0d1117&title_color=FF3333&icon_color=FF3333&text_color=c9d1d9" alt="machunt — macOS threat hunting"/>
+</a>
+
+<a href="https://github.com/mobinert/ssh-fortress">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mobinert&repo=ssh-fortress&hide_border=true&bg_color=0d1117&title_color=FF3333&icon_color=FF3333&text_color=c9d1d9" alt="ssh-fortress — SSH hardening & brute-force protection"/>
+</a>
+
+<p>
+⭐ <i>If one of these saves you an incident, a star keeps the tools coming.</i>
+</p>
+
+</div>
+
+---
+
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
@@ -151,7 +174,7 @@ Most people pick red <i>or</i> blue. I speak both languages fluently.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mobinert&hide_border=true&background=0d1117&ring=FF3333&fire=FF6600&currStreakLabel=FF3333&sideLabels=FF3333&sideNums=ffffff&dates=888888"/>
+  <img src="https://streak-stats.demolab.com/?user=mobinert&hide_border=true&background=0d1117&ring=FF3333&fire=FF6600&currStreakLabel=FF3333&sideLabels=FF3333&sideNums=ffffff&dates=888888"/>
 </p>
 
 ---
