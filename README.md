@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mobin%20Erteghaie&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%F0%9F%94%B4%20Red%20Teamer%20%E2%80%94%20%F0%9F%94%B5%20Blue%20Defender%20%E2%80%94%20%F0%9F%9F%A3%20Always%20Watching&descSize=18&descColor=ff9999&descAlignY=64"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mobin%20Erteghaie&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=%F0%9F%94%B4%20Red%20Teamer%20%C2%B7%20%F0%9F%94%B5%20Blue%20Defender%20%C2%B7%20%F0%9F%9F%A3%20Always%20Watching&descSize=18&descColor=ff9999&descAlignY=64"/>
 
 <div align="center">
 
@@ -34,7 +34,7 @@
 <h3>〔 &nbsp; I find the holes. Then I seal them. &nbsp; 〕</h3>
 <p>
 Penetration tester by trade, defender by obsession.<br/>
-I've been on both sides of the firewall — and I know exactly how the other side thinks.<br/>
+I've been on both sides of the firewall, and I know exactly how the other side thinks.<br/>
 Most people pick red <i>or</i> blue. I speak both languages fluently.
 </p>
 </div>
@@ -55,7 +55,7 @@ Most people pick red <i>or</i> blue. I speak both languages fluently.
 </td>
 <td align="center" width="33%">
 <a href="https://github.com/mobinert/machunt"><b>🛡️ machunt</b></a>
-<br/><sub>Read-only macOS threat hunting &amp; compromise assessment — 20 modules</sub><br/><br/>
+<br/><sub>Read-only macOS threat hunting &amp; compromise assessment, 20 modules</sub><br/><br/>
 <img src="https://img.shields.io/github/stars/mobinert/machunt?style=flat-square&color=FF3333&labelColor=1a1a1a"/>
 <img src="https://img.shields.io/badge/Bash-macOS-4EAA25?style=flat-square&labelColor=1a1a1a"/>
 </td>
