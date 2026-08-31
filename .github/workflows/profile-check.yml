@@ -1,0 +1,48 @@
+name: Profile checks
+
+on:
+  pull_request:
+    paths:
+      - README.md
+      - .lycheeignore
+      - .github/workflows/profile-check.yml
+  push:
+    branches: [main]
+    paths:
+      - README.md
+      - .lycheeignore
+      - .github/workflows/profile-check.yml
+  schedule:
+    - cron: "17 4 1 * *"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: profile-check-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out profile
+        uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+        with:
+          persist-credentials: false
+          fetch-depth: 1
+
+      - name: Lint Markdown
+        uses: DavidAnson/markdownlint-cli2-action@05f32210e84442804257b2a6f20b273450ec8265 # v19.1.0
+        with:
+          globs: README.md
+
+      - name: Check links
+        if: github.event_name != 'pull_request'
+        uses: lycheeverse/lychee-action@e7477775783ea5526144ba13e8db5eec57747ce8 # v2.9.0
+        with:
+          args: --no-progress --max-retries 2 --timeout 20 README.md
+          token: ""
+          fail: true
