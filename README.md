@@ -91,6 +91,15 @@ research.
   <sub>HORUS and machunt are released tools. ssh-fortress remains experimental and is not recommended for production deployment.</sub>
 </div>
 
+<div align="center">
+
+  <h3><a href="https://github.com/mobinert/numost">🔎 numost</a></h3>
+  <p>Iranian mobile-number OSINT with local dataset checks, optional online probes, and explicit uncertainty labels.</p>
+  <p><img src="https://img.shields.io/badge/Python-OSINT-3776AB?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python OSINT toolkit"></p>
+  <p><a href="https://github.com/mobinert/numost">Source and usage</a></p>
+
+</div>
+
 ---
 
 ## Open-source contribution
@@ -128,19 +137,6 @@ research.
   <img src="https://img.shields.io/badge/Threat_Hunting-7C3AED?style=flat-square" alt="Threat hunting">
 
 </div>
-
----
-
-## Current focus
-
-_Updated September 2026._
-
-```text
-[active]   HORUS        hostile-input testing
-[next]     machunt      output redaction
-[review]   ssh-fortress safety hardening
-[upstream] pefile #584  test consolidation
-```
 
 ---
 
