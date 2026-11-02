@@ -52,6 +52,7 @@ research.
   <a href="https://github.com/mobinert/HORUS"><img width="100%" src="https://raw.githubusercontent.com/mobinert/HORUS/master/assets/banner.svg" alt="HORUS — Windows PE triage and IOC enrichment"></a>
 
   <p>Single-file Windows malware triage for PE static analysis, case investigation, and opt-in IOC enrichment.</p>
+  <p><strong>New in v4.1:</strong> review changes between case refreshes and export PE comparisons as JSON. <a href="https://github.com/mobinert/HORUS/releases/tag/v4.1.0">See the release</a>.</p>
 
   <p>
     <img src="https://img.shields.io/github/v/release/mobinert/HORUS?style=flat-square&amp;color=FF3333&amp;label=release" alt="HORUS latest release">
